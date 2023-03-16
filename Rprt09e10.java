@@ -1,5 +1,5 @@
 /*
- * RAQUEL PATIÑO RODRIGUEZ 03/02/22
+ * 
   Haz un programa con un menú que permita gestionar un parking. Se sigue
 el video de esta tarea para su realización. 
 Modifico el método salida para que actualice las plazas ocupadas
